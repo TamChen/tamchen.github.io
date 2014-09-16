@@ -84,13 +84,13 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:50% 50%;
 }
 .blog .aside{
-    background-image:url(/images/blog.jpeg);
+    background-image:url("/images/blog.jpeg");
 }
 .opinion .aside{
-    background-image:url(/images/opinion.jpg);
+    background-image:url("/images/opinion.jpg");
 }
 .project .aside{
-    background-image:url(/images/project.jpeg)
+    background-image:url("/images/project.jpeg");
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
